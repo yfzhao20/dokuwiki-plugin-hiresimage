@@ -25,10 +25,16 @@
                 // Apply CSS constraints to maintain intended layout size
                 if (w) {
                     img.style.width = w + 'px';
-                    img.style.height = 'auto';
-                } else if (h) {
-                    img.style.height = h + 'px';
+                }
+                else {
                     img.style.width = 'auto';
+                } 
+                
+                if (h) {
+                    img.style.height = h + 'px';
+                }
+                else {
+                    img.style.height = 'auto';
                 }
 
                 // Optimization for High-DPI (Retina) displays
