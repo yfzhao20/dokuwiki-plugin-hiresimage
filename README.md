@@ -6,6 +6,8 @@ Forces high-resolution image loading for sharp display on high-DPI screens.
 
 Install this plugin, and enjoy high-DPI images without any changes to your existing image files or wiki syntax.
 
+![](images/hiresimage_example.jpg)
+
 ---------------
 
 All documentation for this plugin can be found at
