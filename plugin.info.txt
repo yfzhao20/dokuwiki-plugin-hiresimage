@@ -2,6 +2,6 @@ base   hiresimage
 author Yifei Zhao
 email  zhaoyifei5053@163.com
 date   2026-01-06
-name   hiresimage plugin
+name   Hi-Res Image plugin
 desc   Forces high-resolution image loading for sharp display on high-DPI screens.
 url    https://www.dokuwiki.org/plugin:hiresimage
